@@ -1,0 +1,1 @@
+# frontmentor-results-summary-component
